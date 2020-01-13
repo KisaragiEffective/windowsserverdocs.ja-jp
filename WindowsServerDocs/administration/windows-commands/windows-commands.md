@@ -49,7 +49,7 @@ ms.locfileid: "71362060"
 [W](#w) |
 [X](#x) |
 Y |
-Z |
+Z
 
 ## <a name="prerequisites"></a>前提条件
 
@@ -116,7 +116,7 @@ PowerShell は、コマンドシェルの機能を拡張して、コマンドレ
 [W](#w) |
 [X](#x) |
 Y |
-Z |
+Z
 
 ### <a name="a"></a>A
 -   [append](append.md)
